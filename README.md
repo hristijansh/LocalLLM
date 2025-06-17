@@ -13,6 +13,7 @@
 ## LinkedIn
 ## Payton
 ### Python Tutorial
+- [Python Tutorial](https://www.w3schools.com/python/default.asp)
 1. Day 1
 2. Day 2
 ## LLM
