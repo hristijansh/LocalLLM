@@ -15,7 +15,11 @@
 ### Python Tutorial
 - [Python Tutorial](https://www.w3schools.com/python/default.asp)
 1. Day 1
-2. Day 2
+   - Python syntax
+   - Python coments
+   - Python variables 
+   -
+3. Day 2
 ## LLM
 ### Local LLMs
 - [Local LLMs via Ollama & LM Studio - The Practical Guide](https://www.udemy.com/course/running-open-llms-locally-practical-guide/?couponCode=ST18MT170625A)
