@@ -20,6 +20,11 @@
    - Python variables 
    -
 3. Day 2
+   - LLM course lessons 1 and 2
+   - Python Data types
+   - Python numbers
+   - Pythoon casting
+   - Python strings |||| slycing + modifying
 ## LLM
 ### Local LLMs
 - [Local LLMs via Ollama & LM Studio - The Practical Guide](https://www.udemy.com/course/running-open-llms-locally-practical-guide/?couponCode=ST18MT170625A)
