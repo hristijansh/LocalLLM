@@ -20,7 +20,7 @@
    - Python variables 
    -
 3. Day 2
-   - LLM course lessons 1 and 2
+   - LLM course sections 1 and 2
    - Python Data types
    - Python numbers
    - Pythoon casting
