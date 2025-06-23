@@ -6,7 +6,8 @@
    * [Payton](#payton)
       * [Python Tutorial](#python-tutorial)
    * [LLM](#llm)
-     * [Local LLMs](#local-llms)      
+     * [Local LLMs](#local-llms)
+   * [Resources](#resources)       
 <!--te-->
 
 ## Git
@@ -38,4 +39,5 @@
 - [Local LLMs via Ollama & LM Studio - The Practical Guide](https://www.udemy.com/course/running-open-llms-locally-practical-guide/?couponCode=ST18MT170625A)
   - user: milancho.arsovski@hotmail.com 
   - pass: 
-
+## Resources
+- [How RAG Works](https://www.linkedin.com/posts/sketechnews_how-rag-works-in-6-steps-retrieval-augmented-activity-7342572138823909376-Axp0?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAX_87UBO5Z1swZISKQMTgkggk73pB1v5cI)
