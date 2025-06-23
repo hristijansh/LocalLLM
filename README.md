@@ -31,9 +31,14 @@
    - Python strings |||| Concatenete + Format + Escape + Methods + Excercises
    - Python Booleans
    - Python Operators
-   - Python Lists ||||
+   - Python Lists |||| access, add and change list items
    - LLM course section 3 |||| lessons 14 - 32
-   - 
+5. Day 4
+   - Python Lists |||| finished lists
+   - LLM course |||| finished section 3
+6. Day 5
+    - Python tuples
+    - 
 ## LLM
 ### Local LLMs
 - [Local LLMs via Ollama & LM Studio - The Practical Guide](https://www.udemy.com/course/running-open-llms-locally-practical-guide/?couponCode=ST18MT170625A)
