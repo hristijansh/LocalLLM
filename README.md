@@ -38,7 +38,10 @@
    - LLM course |||| finished section 3
 6. Day 5
     - Python tuples
-    - 
+    - Python sets
+  7. Day 6
+   - Python  
+   
 ## LLM
 ### Local LLMs
 - [Local LLMs via Ollama & LM Studio - The Practical Guide](https://www.udemy.com/course/running-open-llms-locally-practical-guide/?couponCode=ST18MT170625A)
