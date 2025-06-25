@@ -40,7 +40,9 @@
     - Python tuples
     - Python sets
   7. Day 6
-   - Python  
+   - Python  Dictionaries
+   - Python if...else
+   - Python match
    
 ## LLM
 ### Local LLMs
