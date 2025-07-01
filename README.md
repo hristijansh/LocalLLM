@@ -47,6 +47,15 @@
    - Python While loops
    - Python For loops
    - Python Functions
+  9. Day 8
+   - Python Lambda
+   - Python Arrays
+   - Completed task #1 : Implement a function that prints all even numbers up to a specified input parameter.
+      Implement a function that calculates and prints the sum of all even numbers up to a specified input parameter.
+   - Python OOP
+   - Started Python Classes/Object
+
+
      
 ## LLM
 ### Local LLMs
