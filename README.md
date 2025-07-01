@@ -47,7 +47,7 @@
    - Python While loops
    - Python For loops
    - Python Functions
-   - 
+     
 ## LLM
 ### Local LLMs
 - [Local LLMs via Ollama & LM Studio - The Practical Guide](https://www.udemy.com/course/running-open-llms-locally-practical-guide/?couponCode=ST18MT170625A)
