@@ -5,7 +5,7 @@ def my_function(endparameters):
         if i % 2 == 0:
             even_numbers.append(i)
     print()        
-    print("Even numbers up to 10 are:")
+    print("Even numbers up to", endparameters - 1, "are:")
     print(even_numbers)
 
 
@@ -14,7 +14,7 @@ def my_function(endparameters):
         sum_even += number
         
     print()
-    print("Sum of even numbers up to 10 is:")
+    print("Sum of even numbers up to", endparameters - 1, "is:")
     print(sum_even)
 
 my_function(11)
