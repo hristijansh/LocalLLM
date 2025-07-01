@@ -1,5 +1,6 @@
 def my_function():
     even_numbers = []
+    #TODO: End number needs to be an input parameter in the function, not a fixed number 11. Example, my_function(10), my_function(15)
     for i in range(1, 11):
         if i % 2 == 0:
             even_numbers.append(i)
