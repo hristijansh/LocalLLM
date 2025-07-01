@@ -1,7 +1,7 @@
-def my_function():
+def my_function(endparameters):
     even_numbers = []
     #TODO: End number needs to be an input parameter in the function, not a fixed number 11. Example, my_function(10), my_function(15)
-    for i in range(1, 11):
+    for i in range(1, endparameters):
         if i % 2 == 0:
             even_numbers.append(i)
     print()        
@@ -17,4 +17,4 @@ def my_function():
     print("Sum of even numbers up to 10 is:")
     print(sum_even)
 
-my_function()
+my_function(11)
